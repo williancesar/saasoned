@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "saasoned",
+  "description": "Seasoned skills for builders — battle-tested Claude Code skills, served with flavor.",
+  "owner": {
+    "name": "Willian Cesar",
+    "email": "willian.cesar@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "saasoned",
+      "source": "./plugins/saasoned",
+      "description": "Growth & go-to-market toolkit: a hub-and-spoke set of skills for distribution, positioning, retention, customer discovery, network effects, and growth experiments — grounded in Zero to One, Traction, Hooked, The Mom Test, Crossing the Chasm, Obviously Awesome, The Embedded Entrepreneur, and The Cold Start Problem.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
