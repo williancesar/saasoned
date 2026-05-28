@@ -10,7 +10,7 @@
     {
       "name": "saasoned",
       "source": "./plugins/saasoned",
-      "description": "Growth & go-to-market toolkit: a hub-and-spoke set of skills for distribution, positioning, retention, customer discovery, network effects, and growth experiments — grounded in Zero to One, Traction, Hooked, The Mom Test, Crossing the Chasm, Obviously Awesome, The Embedded Entrepreneur, and The Cold Start Problem.",
+      "description": "Growth & go-to-market toolkit for Claude Code. Describe a growth problem in plain language and it routes you — from a central growth-foundations hub — to one of seven specialized skills covering traction channels, positioning, habit loops, customer discovery, network effects, and growth experiments. Every answer is structured and grounded in the source frameworks (Zero to One, Traction, Hooked, The Mom Test, Crossing the Chasm, Obviously Awesome, The Embedded Entrepreneur, The Cold Start Problem) — not generic advice.",
       "version": "0.1.0",
       "category": "productivity"
     }
